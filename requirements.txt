@@ -1,0 +1,8 @@
+# Telegram File Manager Bot - Dependencies
+
+# Core dependencies
+pyrogram>=2.0.106
+tgcrypto>=1.2.5
+
+# Optional but recommended for better performance
+# cryptg  # Uncomment for even faster encryption (requires C compiler)
